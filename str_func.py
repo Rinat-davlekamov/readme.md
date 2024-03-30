@@ -10,3 +10,4 @@ def first_liter_up(offer):
     делает заглавными первые буквы каждого слова в строке
     """
     return offer.title()
+abs
